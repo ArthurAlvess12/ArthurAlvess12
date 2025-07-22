@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I´m Arthur | Web Developer.</h2>
+<h2 align="left">Hi, I´m Arthur | Soc Analyst.</h2>
 
 ###
 
